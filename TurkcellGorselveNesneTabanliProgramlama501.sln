@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TurkcellGorselveNesneTabanliProgramlama501", "TurkcellGorselveNesneTabanliProgramlama501.csproj", "{D725FBE7-2858-4C55-A0B2-7277A0EB6F0F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityLayer", "..\EntityLayer\EntityLayer.csproj", "{EC43A44F-7E15-4023-B738-917928D5AB00}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D725FBE7-2858-4C55-A0B2-7277A0EB6F0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D725FBE7-2858-4C55-A0B2-7277A0EB6F0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D725FBE7-2858-4C55-A0B2-7277A0EB6F0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D725FBE7-2858-4C55-A0B2-7277A0EB6F0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC43A44F-7E15-4023-B738-917928D5AB00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC43A44F-7E15-4023-B738-917928D5AB00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC43A44F-7E15-4023-B738-917928D5AB00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC43A44F-7E15-4023-B738-917928D5AB00}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8339886D-86FC-4ED3-B500-23ED4A0F4915}
+	EndGlobalSection
+EndGlobal
